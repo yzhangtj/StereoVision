@@ -1,0 +1,45 @@
+{
+  "timestamp": "20250609_110537",
+  "folder": "test/010200",
+  "algorithm": "HITNET",
+  "depth_method": "center",
+  "camera_parameters": {
+    "fx": 1409.6000000000001,
+    "fy": 1409.6000000000001,
+    "cx": 881.0,
+    "cy": 400.0,
+    "baseline": 0.1
+  },
+  "detections": [
+    {
+      "id": 0,
+      "class_name": "truck",
+      "class_id": 7,
+      "confidence": 0.7651072144508362,
+      "bbox_2d": [
+        535,
+        279,
+        746,
+        514
+      ],
+      "center_2d": [
+        640,
+        396
+      ],
+      "depth": 2.9991488456726074,
+      "position_3d": [
+        -0.5127659440040588,
+        -0.008510638028383255,
+        2.9991488456726074
+      ],
+      "distance": 3.0426790714263916
+    }
+  ],
+  "summary": {
+    "total_objects": 1,
+    "objects_with_depth": 1,
+    "class_counts": {
+      "truck": 1
+    }
+  }
+}

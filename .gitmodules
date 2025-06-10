@@ -1,0 +1,3 @@
+[submodule "ONNX-HITNET-Stereo-Depth-estimation"]
+	path = ONNX-HITNET-Stereo-Depth-estimation
+	url = https://github.com/ibaiGorordo/ONNX-HITNET-Stereo-Depth-estimation

@@ -1,0 +1,26 @@
+# Development Requirements for Stereo Vision System
+# Install with: pip install -r dev-requirements.txt
+
+# Core stereo vision dependencies
+opencv-python>=4.6.0
+numpy>=1.23.0
+ultralytics>=8.3.0
+matplotlib>=3.3.0
+
+# YOLO export dependencies
+onnx>=1.12.0
+onnxsim>=0.4.0  # ONNX model simplification
+
+# Note: onnx2ncnn is not available via pip
+# Download from: https://github.com/Tencent/ncnn/releases
+# Or build from source: https://github.com/Tencent/ncnn
+
+# Development tools
+tqdm>=4.64.0
+pathlib
+
+# Optional: For HITNet support
+onnxruntime>=1.12.0
+
+# For visualization and debugging
+pillow>=7.1.2 

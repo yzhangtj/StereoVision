@@ -1,0 +1,10 @@
+{
+  "algorithm": "HITNET",
+  "baseline": 0.1,
+  "fx": 1409.6000000000001,
+  "fy": 1409.6000000000001,
+  "cx": 881.0,
+  "cy": 400.0,
+  "image_width": 1762,
+  "image_height": 800
+}
